@@ -34,7 +34,7 @@ Timer3 Counter is updated with value of 2000, every time PA5 is switched on
 ## Troubleshooting
 
 LED on PA5 is not toggling : <br />
-- Verify Pin mode (GPIOD->MODER) <br />
+- Verify Pin mode (GPIOD->MODER) configuration <br />
 Timer3 Counter is not updating : <br />
 - Verify (PA5,PA6) wiring 
 ## Contributing
