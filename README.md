@@ -11,7 +11,7 @@ Bare metal implementation  of an Input Capture Timer driver for STM32 developmen
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Asma-Prog-Eng/InputCapture_Driver
+   git clone https://github.com/Asma-Prog-Eng/InputCapture_Timer_Driver
    
 2. Import project into STM32CubeIDE:
 File → Import... → Existing Projects into Workspace
